@@ -1,2 +1,2 @@
 # VR-Planetarium-Web
-Spring Bott Web application for VR Planetarium 
+Spring Boot Web application for VR Planetarium 
